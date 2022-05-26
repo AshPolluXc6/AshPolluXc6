@@ -2,5 +2,5 @@ OI! Eu sou o Matheus, Prazer!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshPolluXc6&show_icons=true&theme=radical&count_private=true)](https://github.com/AshPolluXc6/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshPolluXc6&theme=radical&layout=compact&langs_count=8)](https://github.com/AshPolluXc6/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshPolluXc6&theme=radical&layout=compact&langs_count=5&count_private=true)](https://github.com/AshPolluXc6/github-readme-stats)
 
